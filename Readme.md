@@ -1,6 +1,6 @@
 <p><img src="./imagenes/1.png" width="1000" height="10"><img src="./imagenes/1.png" width="998" height="477"><br></p>
 <p><strong><span>&nbsp;</span></strong><span><strong>&nbsp;</strong></span></p>
-<table style="width: 100%;" border=¨0">
+<table style="width: 100%;">
     <tbody>
         <tr>
             <td style="width: 79.5645%;">
