@@ -1,6 +1,6 @@
 <p><img src="./imagenes/1.png" width="1000" height="10"><img src="./imagenes/1.png" width="998" height="477"><br></p>
 <p><strong><span>&nbsp;</span></strong><span><strong>&nbsp;</strong></span></p>
-<table style="width: 100%;">
+<table style="width: 100%;" border=¨0">
     <tbody>
         <tr>
             <td style="width: 79.5645%;">
@@ -23,7 +23,7 @@
     <li><span>&nbsp;music🎶</span></li>
 </ul>
             </td>
-            <td style="width: 20.28%;"><img src="./imagenes/2.png" width="303" height="303"></td>
+            <td style="width: 20.28%;"><img src="./imagenes/2.png" width="303" height="303">o</td>
         </tr>
     </tbody>
 </table>
