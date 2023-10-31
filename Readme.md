@@ -23,7 +23,7 @@
     <li><span>&nbsp;music🎶</span></li>
 </ul>
             </td>
-            <td style="width: 20.28%;"><img src="./imagenes/2.png" width="303" height="303">o</td>
+            <td style="width: 20.28%;"><img src="./imagenes/2.png" width="303" height="303"></td>
         </tr>
     </tbody>
 </table>
