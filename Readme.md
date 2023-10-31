@@ -1,6 +1,11 @@
 <p><img src="./imagenes/1.png" width="1000" height="10"><img src="./imagenes/1.png" width="998" height="477"><br></p>
 <p><strong><span>&nbsp;</span></strong><span><strong>&nbsp;</strong></span></p>
-<p><span><strong>Mi nombre es Lucia, y estos son  algunos datos de mi persona:&nbsp;</strong></span><strong><span>&nbsp; &nbsp; &nbsp;</span></strong> &nbsp;<img src="./imagenes/2.png" width="303" height="303"></p>
+<table style="width: 100%;">
+    <tbody>
+        <tr>
+            <td style="width: 79.5645%;">
+
+<p><span><strong>Mi nombre es Lucia, y estos son  algunos datos de mi persona:&nbsp;</strong></span><strong><span>&nbsp; &nbsp; &nbsp;</span></strong> &nbsp;</p>
 <p>📖:</p>
 <ul>
     <li><span>Tecnicatura en Programacion en FRSR💻</span></li>
@@ -17,6 +22,11 @@
     <li><span>&nbsp;running 🏃&zwj;♀️</span></li>
     <li><span>&nbsp;music🎶</span></li>
 </ul>
+            </td>
+            <td style="width: 20.28%;"><img src="./imagenes/2.png" width="303" height="303"></td>
+        </tr>
+    </tbody>
+</table>
 <p><span><span>Actualmente me encuentro contribuyendo en dos proyectos:</span></span><span>&nbsp;</span></p>
 <ul>
     <li>&nbsp;<span>Gamesit:</span><span>&nbsp;&nbsp;</span>una plataforma de juegos que te recuerdan las &eacute;pocas de los 90 s. Interactivos, practico, justo para esos momentos que queres desconectar por 5 min. Mas info 👇️</li>
